@@ -1,11 +1,11 @@
 # Colab_examples
 Colab examples (computer vision, tensorflow 2.0, reports)
 
-# Computer Vision examples
+## Computer Vision examples
 Hands-on materials in Computer Vision class based on OpenCV tutorial
 
-# Generative models
+## Generative models
 Reports about generative models which is made by Tensorflow 2.0 in Visual computing class
 
-# Reports/Machine learning
+## Reports/Machine learning
 Homework reports in Machine learning class by Colab
